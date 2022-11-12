@@ -5,3 +5,10 @@ chức năng:
 - ghi lại thu chi cá nhân  
 - lịch sử thu chi
 - tương lai: tạo báo cáo phân tích
+
+
+npx degit sveltejs/template ./
+npm install
+npm install firebase
+
+npm run dev
